@@ -1,0 +1,1 @@
+A script-kiddie script I made back in early 2020 which I tried to hide, as for whatever reason, I felt like with modification, this little thing could destroy the world. Oh how naive of me. My most embarrassing forkbomb project.

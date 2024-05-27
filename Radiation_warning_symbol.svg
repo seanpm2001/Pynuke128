@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="-3 -3 6 6" width="600" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<mask id="c" maskUnits="userSpaceOnUse" x="-3" y="-3" width="6" height="6">
+<circle r="1.625" fill="none" stroke="#fff" stroke-width="1.75"/>
+</mask>
+</defs>
+<path fill="#e8bf28" d="m-3-3h6v6h-6"/>
+<circle r=".5"/>
+<g mask="url(#c)">
+<g id="a">
+<path id="b" transform="rotate(30)" d="m0 0v2.88h3"/>
+<use transform="scale(-1,1)" xlink:href="#b"/>
+</g>
+<use transform="rotate(120)" xlink:href="#a"/>
+<use transform="rotate(240)" xlink:href="#a"/>
+</g>
+</svg>
